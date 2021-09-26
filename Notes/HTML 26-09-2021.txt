@@ -1,0 +1,38 @@
+class ==>  multiple element  (.)
+id==>  unique element    (#)
+
+Lists
+=======
+1.Ordered List
+2.UnOrdered List
+
+
+1. OrderList
+--------------
+     
+        <ol>
+           <li>Angular</li> 
+           <li>React</li>
+           <li>Vue Js</li>
+           <li>SpringBoot</li>
+          
+        </ol>
+
+  type="a"
+  type="A"
+  type="i"
+  type="I"
+
+
+2.Un Ordered List
+------------------
+
+        <ul>
+           <li>Angular</li> 
+           <li>React</li>
+           <li>Vue Js</li>
+           <li>SpringBoot</li>
+          
+        </ul>
+
+
