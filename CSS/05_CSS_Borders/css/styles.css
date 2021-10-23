@@ -1,0 +1,31 @@
+h1{
+    color: coral;
+    background-color: #fff;
+    padding: 25px;
+    text-align: center;
+}
+
+
+.js{
+    border: 2px solid black;
+        width: 28%;
+        margin: 0px;
+}
+.css {
+    /* background-color: grey; */
+    border-left: 5px solid green;
+}
+.Bootstrap{
+    border: 2px solid green;
+    padding: 20px;
+    text-align: center;
+    border-radius: 248px;
+}
+a{
+    background-color: red;
+    text-decoration: none;
+}
+a:hover{
+    background-color: black;
+    color: white;
+}
