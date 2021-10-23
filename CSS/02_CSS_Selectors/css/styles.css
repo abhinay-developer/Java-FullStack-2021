@@ -1,0 +1,29 @@
+#para1{
+    background-color:rgb(245, 235, 235);
+    padding: 30px;
+    font-size: 18px;
+    word-spacing: 3px;
+    line-height: 25px;
+    text-align: justify;
+}
+#content{
+color: red;
+}
+#content2{
+    color: green;
+}
+h1{
+    text-align: center;
+}
+.pa{
+background-color: rgb(221, 167, 167);    
+    padding: 30px;
+    font-size: 18px;
+    word-spacing: 3px;
+    line-height: 25px;
+    text-align: justify;
+    
+}
+*{
+font-family: calibri;
+}
