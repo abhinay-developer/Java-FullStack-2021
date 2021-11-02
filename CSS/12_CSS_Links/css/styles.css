@@ -1,0 +1,49 @@
+h1{
+    background-color: greenyellow;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+#para1{
+
+    background-color: rgb(233, 202, 202);
+}
+#para1 {
+    background-color: rgb(233, 202, 202);
+    padding: 10px;
+    font-family: cursive;
+    word-spacing: 6px;
+    line-height: 27px;
+    text-transform: uppercase;
+    text-align: justify;
+    color: brown;
+    text-indent: 314px;
+    text-shadow: 2px 2px;
+}
+
+a {
+    text-decoration: none;
+    text-decoration: none;
+    padding: 12px;
+    font-family: cursive;
+    font-size: 33px;
+}
+
+a:hover{
+    color: red;
+    width: 10px;
+    background-color: white;
+}
+
+/* a:visited{
+    color: hotpink;
+} */
+a:active{
+color: green;
+
+}
+nav{
+    background-color: grey;
+    padding: 10px;
+}

@@ -1,0 +1,29 @@
+#person-tbl-heading{
+
+    font-weight: 800;
+    background: black;
+    color: white;
+}
+
+/* thead>tr>th{
+    padding: 10px;
+}
+
+tbody>tr>td{
+    padding: 10px;
+
+} */
+
+td,th{
+    padding: 10px;
+}
+.table-styles{
+    margin-left: 550px;
+}
+
+tbody>tr:nth-child(odd){
+    background-color: green;
+}
+tbody>tr:nth-child(even){
+    background-color: blueviolet;
+}

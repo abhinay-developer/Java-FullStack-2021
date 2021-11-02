@@ -1,0 +1,19 @@
+ul>li {
+    list-style-type: none;
+    line-height: 27px;
+    background-color: #e0dbdb;
+    padding: 10px;
+    margin: 11px;
+    font-weight: 700;
+    width: 20%;
+}
+
+ul>li:hover{
+
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-left: 4px solid green;
+    font-weight: 700;
+    width: 20%;
+}
